@@ -7,7 +7,7 @@ This repository consists of introductory programs in C++. Each program has docum
 
 2. Absent_Employee.cpp - A program that calcuates the average number of days all employees where absent.  
 
-  3. Main.cpp - 
+  3. Invoice.cpp - A program that creates an invoice for a customer at a Hardware store by asking for the part number, description, quantity and price to calculate the total cost of the items purchased. 
 
 
 
