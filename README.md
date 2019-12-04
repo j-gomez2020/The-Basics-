@@ -7,7 +7,11 @@ This repository consists of introductory programs in C++. Each program has docum
 
 2. Absent_Employee.cpp - A program that calcuates the average number of days all employees where absent.  
 
-  3. Invoice.cpp - A program that creates an invoice for a customer at a Hardware store by asking for the part number, description, quantity and price to calculate the total cost of the items purchased. 
+  3. Invoice.cpp - A program that creates an invoice for a customer at a Hardware store by asking for the part number, description, quantity and price to calculate the total cost of the items purchased.  
+  
+  4. pointerslab.cpp - This program simulates a race between a Hare and Tortoise by using the random number generator to mark their position by using pointers. 
+  
+  5. 
 
 
 
