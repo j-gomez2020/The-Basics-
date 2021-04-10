@@ -13,8 +13,10 @@ This repository consists of introductory programs in C++. I have listed a breif 
   
   5. Functions.cpp - This program illustrates the use of functions by asking the user for three integers and outputting the largest and smallest integer respectively. 
   
+  6. Compound.cpp - Includes a project that I created for my final project in Data Structures in C++. I included a pdf of the presentation and explaination of the project to demonstrate the concepts used. Uses a variety of functions to generate chemistry conversions and perform basic stoichmetry calcultions 
 
-Branch 2- Includes a project that I created for my final project in Data Structures in C++. I included a pdf of the presentation and explaination of the project to demonstrate the concepts used. 
+
+  7. Balannce that Checking.cpp - This program is designed to breakdown the user's monthly income into pre-tax deductions, tax, post-tax deductions, bills, savings and disposible income. The program uses a combination of data structures to procees the data and provide the appropriate calculations.
 
 
 
